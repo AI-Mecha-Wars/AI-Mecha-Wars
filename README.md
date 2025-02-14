@@ -4,13 +4,11 @@
 AI Mecha Wars is a next-generation **AI-driven PvP mecha battle simulation game**. Players train AI-driven mechas that learn and evolve in battle, optimizing their strategies in real-time.
 
 ## Project Structure
-- `english/`: English version of the project.
-- `japanese/`: Japanese version of the project.
-- `docs/`: General documentation (English & Japanese).
-- `whitepaper/`: GitBook whitepaper for the project.
-- `ai_agent/`: AI agent training and implementation.
+- `whitepaper/`: GitBook whitepaper files.
+- `ai_agent/`: AI agent training and logic.
 - `game_sdk/`: Game SDK integration.
 - `smart_contracts/`: Blockchain smart contracts.
+- `docs/`: General documentation.
 
 ## How to Contribute
 1. Fork this repository.
